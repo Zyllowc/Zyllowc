@@ -15,9 +15,6 @@ Hi 👋! My name is Zyllow and 🔭 I’m currently working on Skyline and Quant
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zyllow1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Zyllow1&icon=9&color=12)](https://visitcount.itsvg.in)
 
