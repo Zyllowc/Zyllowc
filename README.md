@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Zyllow and 🔭 I’m currently working on Skyline and Quantum AC
+Hi 👋! My name is Zyllow and 🔭 I’m currently working on Skyline and Zyllow AC
 
 
 ## 🌐 Socials:
